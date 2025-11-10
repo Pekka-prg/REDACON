@@ -1,0 +1,52 @@
+.gradient-background {
+    background: linear-gradient(300deg, #262627, #555257, #656466);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+body {
+    background-color: rgb(190, 204, 217);
+  }
+
+/* .redacon-background {
+    background-color: rgb(52, 107, 155);
+    background-image: url(./Pictures/REDACON-logo2.png);
+    background-size: cover;
+    min-height: 250px;
+    
+} */
+
+ul .taidot > li{
+   color: black;
+}
+
+.nav-link {
+    color:  rgb(0, 0, 0);
+}
+
+.profile-img {
+    height: 200px;
+    width: auto;
+    border-radius: 50%;
+}
+
+footer {
+    background: linear-gradient(300deg, #262627, #555257, #656466);
+    background-color: ;
+}
+
+footer img{
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.carousel-item > img {
+    display: block;
+    margin: auto;
+    height: 400px;
+    width: auto;
+}
+
+.rounded-circle {
+    object-fit: cover;
+}
